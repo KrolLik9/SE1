@@ -4,6 +4,11 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int a,b,c;
+ cout<<"Add 2 numbers\n";
+ cin>>a;
+ cin>>b;
+ c=a+b;
+ cout<<c;
     return 0;
 }
